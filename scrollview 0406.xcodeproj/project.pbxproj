@@ -12,6 +12,7 @@
 		AF598CDE1E95F14F0091C0C3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF598CDC1E95F14F0091C0C3 /* Main.storyboard */; };
 		AF598CE01E95F14F0091C0C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF598CDF1E95F14F0091C0C3 /* Assets.xcassets */; };
 		AF598CE31E95F14F0091C0C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF598CE11E95F14F0091C0C3 /* LaunchScreen.storyboard */; };
+		AF598CEB1E95F2750091C0C3 /* sample.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AF598CEA1E95F2750091C0C3 /* sample.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		AF598CDF1E95F14F0091C0C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF598CE21E95F14F0091C0C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AF598CE41E95F14F0091C0C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF598CEA1E95F2750091C0C3 /* sample.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sample.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				AF598CD81E95F14F0091C0C3 /* AppDelegate.swift */,
 				AF598CDA1E95F14F0091C0C3 /* ViewController.swift */,
 				AF598CDC1E95F14F0091C0C3 /* Main.storyboard */,
+				AF598CEA1E95F2750091C0C3 /* sample.jpeg */,
 				AF598CDF1E95F14F0091C0C3 /* Assets.xcassets */,
 				AF598CE11E95F14F0091C0C3 /* LaunchScreen.storyboard */,
 				AF598CE41E95F14F0091C0C3 /* Info.plist */,
@@ -127,6 +130,7 @@
 				AF598CE31E95F14F0091C0C3 /* LaunchScreen.storyboard in Resources */,
 				AF598CE01E95F14F0091C0C3 /* Assets.xcassets in Resources */,
 				AF598CDE1E95F14F0091C0C3 /* Main.storyboard in Resources */,
+				AF598CEB1E95F2750091C0C3 /* sample.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
